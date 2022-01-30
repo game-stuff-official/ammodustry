@@ -1,12 +1,7 @@
 ammoTypes: {
   infused-silicon: {
     type: basicHoming
-    width: 7
-    height: 9
-    homingPower: 0.1
-    reloadMultiplier: 1.5
-    ammoMultiplier: 5
-    lifetime: 60
+    damage: 18
   }
   copper: {
     type: basicCopper
@@ -15,16 +10,3 @@ ammoTypes: {
     type: standardDense
   }
 } 
-
-size: 2
-range: 190
-reloadTime: 31
-restitution: 0.03
-ammoEjectBack: 3
-cooldown: 0.03
-recoilAmount: 3
-shootShake: 1
-burstSpacing: 3
-spread: 0
-shots: 4
-health: 960
