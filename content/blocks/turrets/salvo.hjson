@@ -1,3 +1,5 @@
+name: Salvo
+size: 2
 ammoTypes: {
   infused-silicon: {
     type: basicBulletType
