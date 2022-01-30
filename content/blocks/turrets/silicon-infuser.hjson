@@ -10,12 +10,12 @@ category: crafting
 itemCapacity: 10
 
 consumes: 
-	Items: {
-		Items: [
+	items: {
+		items: [
 			coal/1
 		]
 	}
-	
+}
 outputItem: infused-silicon/3
   
 requirements: [
