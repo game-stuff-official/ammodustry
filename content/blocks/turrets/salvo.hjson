@@ -1,7 +1,6 @@
 ammoTypes: 
   infused-silicon: {
     type: standardHoming
-    damage: 100
   }
   copper: {
     type: standardCopper
