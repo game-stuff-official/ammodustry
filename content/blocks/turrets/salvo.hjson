@@ -1,5 +1,9 @@
 ammoTypes: {
-  infused-silicon: {}
+  infused-silicon: {
+  type: standardHoming
+  frontColor: ff00ff
+  backColor: 0000ff
+  }
   copper: {
     type: standardCopper
   }
