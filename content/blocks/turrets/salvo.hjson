@@ -8,4 +8,7 @@ ammoTypes: {
     ammoMultiplier: 5
     lifetime: 60
   }
+  copper: {
+    type: basicCopper
+  }
 } 
