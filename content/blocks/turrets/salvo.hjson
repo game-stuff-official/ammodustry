@@ -8,8 +8,8 @@ ammoTypes: {
     height: 21
   }
   copper: standardCopper
-  graphite: standardDenseBig
+  graphite: standardDense
   pyratite: standardIncendiary
   silicon: standardHoming
-  thorium: standardThouriumBig
+  thorium: standardThourium
 }
