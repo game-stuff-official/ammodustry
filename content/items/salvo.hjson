@@ -1,0 +1,5 @@
+ammoTypes: {
+  infused-silicon: {
+    type: basicHoming
+  } 
+}
