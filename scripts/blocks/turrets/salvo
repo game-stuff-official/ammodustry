@@ -1,0 +1,2 @@
+Blocks.salvo.ammo(ammodustry/content/item/infused_silicon, Bullets.basicHoming);
+// Blocks.scorch.ammo(Items.sand, Bullets.basicFlame);
