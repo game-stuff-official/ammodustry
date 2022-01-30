@@ -11,7 +11,7 @@ itemCapacity: 10
 
 consumes: {
   items: {
-    "items": [
+    items: [
       silicon/3
       titanium/1
       thourium/1
