@@ -1,9 +1,9 @@
 ammoTypes: {
   infused-silicon: {
-    type: basicBulletTypeBig
-    homingPower: 0.1
-    homingRange: 100
+    type: standardHoming
     damage: 18
+    width: 16
+    height: 21
   }
   copper: standardCopperBig
   graphite: standardDenseBig
