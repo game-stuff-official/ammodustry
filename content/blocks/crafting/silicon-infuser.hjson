@@ -1,7 +1,7 @@
 name:Silicon Infuser
 description:Infuses silicon with metals for a better silicon.
 type: GenericCrafter
-size:3
+size:2
 hasPower: true
 hasItems: true
 craftTime: 40
