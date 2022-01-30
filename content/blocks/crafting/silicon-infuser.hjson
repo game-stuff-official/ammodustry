@@ -10,7 +10,6 @@ category: crafting
 itemCapacity: 10
 
 consumes: {
-  power/5
   items: {
     items: [
       silicon/3
@@ -19,6 +18,7 @@ consumes: {
     ]
   }
 }
+consumePower/3
 	
 outputItem: infused-silicon/3
   
