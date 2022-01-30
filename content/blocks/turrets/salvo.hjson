@@ -3,7 +3,7 @@ ammoTypes: {
     type: basicBulletType
     homingPower: 0.1
     homingRange: 180
-    damage: 35
+    damage: 64
     width: 16
     height: 21
     speed: 4
