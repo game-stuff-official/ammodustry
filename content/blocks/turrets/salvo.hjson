@@ -1,5 +1,20 @@
 ammoTypes: {
-  infused-silicon: {
+  copper: {
+    type: standardCopper
+  }
+  graphite: {
+    type: standardDense
+  }
+    pyraite: {
+    type: standardIncendiary
+  }
+    silicon: {
+    type: standardHoming
+  }
+    thourium: {
+    type: standardThourium
+  }
+    infused-silicon: {
     type: basicHoming
   } 
 }
