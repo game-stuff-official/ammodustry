@@ -1,0 +1,29 @@
+name:Silicon Infuser
+description:Infuses silicon with metals for a better silicon.
+type: GenericCrafter
+size:3
+hasPower: true
+hasItems: true
+craftTime: 40
+craftEffect: smelt
+category: crafting
+itemCapacity: 10
+
+consumes: {
+  power/5
+  items: {
+    items: [
+      silicon/3
+      titanium/1
+      thourium/1
+    ]
+  }
+}
+	
+outputItem: infused-silicon/3
+  
+requirements: [
+  copper/40
+  lead/35
+  silicon/20
+]
