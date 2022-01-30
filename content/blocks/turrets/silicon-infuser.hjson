@@ -9,13 +9,16 @@ craftEffect: smelt
 category: crafting
 itemCapacity: 10
 
-consumes: 
-	items: {
-		items: [
-			coal/1
-		]
-	}
+consumes: {
+  items: {
+    items: [
+      transistor/5
+      titanium/15
+      graphite/10
+    ]
+  }
 }
+
 outputItem: infused-silicon/3
   
 requirements: [
