@@ -1,21 +1,13 @@
 ammoTypes: {
   infused-silicon: {
-    type: standardHoming
+    type: basicBulletTypeBig
+    homingPower: 0.1
+    homingRange: 100
     damage: 18
   }
-  copper: {
-    type: basicCopper
-  }
-  graphite: {
-    type: standardDense
-  }
-  pyratite:  {
-    type: standardIncendiary
-  }
-  silicon: {
-    type: standardHoming
-  }
-  thorium: {
-    type: standardThourium
-  }
-} 
+  copper: standardCopperBig
+  graphite: standardDenseBig
+  pyratite: standardIncendiaryBig
+  silicon: standardHomingBig
+  thorium: standardThouriumBig
+}
