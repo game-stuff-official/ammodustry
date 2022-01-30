@@ -1,6 +1,11 @@
 ammoTypes: {
   infused-silicon: {
-     type: standardHoming
+    width: 7
+    height: 9
+    homingPower: 0,1
+    reloadMultiplier: 1.5
+    ammoMultiplier: 5
+    lifetime: 60
   }
   copper: {
     type: standardCopper
