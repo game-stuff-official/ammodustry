@@ -17,13 +17,3 @@ ammoTypes: {
     infused-silicon: {
     type: basicHoming
   } 
-}
-  size: 2
-  range: 190
-  reloadTime: 31
-  cooldown: 0.03
-  shootShake: 1
-  burstSpacing: 3
-  spread: 0
-  shots: 4
-  health: 960
