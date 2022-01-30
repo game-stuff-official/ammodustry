@@ -1,6 +1,5 @@
 name:Infused Silicon
 description:Silicon Infused with various other metals to create a better version of sillicon ammo.
-type: material
 explosiveness: 0
 flammability: 0
 radioactivity: 0
