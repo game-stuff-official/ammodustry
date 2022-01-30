@@ -6,6 +6,7 @@ ammoTypes: {
     damage: 18
     width: 16
     height: 21
+    speed: 3
   }
   copper: standardCopper
   graphite: standardDense
