@@ -1,19 +1,11 @@
 ammoTypes: {
   infused-silicon: {
-  }
-  copper: {
-    type: standardCopper
-  }
-  graphite: {
-    type: standardDense
-  }
-    pyraite: {
-    type: standardIncendiary
-  }
-    silicon: {
-    type: standardHoming
-  }
-    thourium: {
-    type: standardThourium
+    type: basicHoming
+    width: 7
+    height: 9
+    homingPower: 0.1
+    reloadMultiplier: 1.5
+    ammoMultiplier: 5
+    lifetime: 60
   }
 } 
