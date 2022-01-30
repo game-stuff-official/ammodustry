@@ -1,8 +1,6 @@
 ammoTypes: {
   infused-silicon: {
-    type: basicBulletType
-    homingPower: 0.1
-    homingRange: 100
+    type: standardHoming
     damage: 18
   }
   copper: {
