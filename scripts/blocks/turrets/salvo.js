@@ -1,1 +1,1 @@
-Blocks.salvo.ammo(Items.ammodustry/infused-silicon, Bullets.basicFlame)
+Blocks.salvo.ammo(Items.infused_silicon, Bullets.basicHoming)
