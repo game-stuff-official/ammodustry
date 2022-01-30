@@ -3,10 +3,12 @@ ammoTypes: {
     type: basicBulletType
     homingPower: 0.1
     homingRange: 180
-    damage: 18
+    damage: 35
     width: 16
     height: 21
     speed: 4
+    reloadMultipier: 2
+    ammoMultiplier: 4
   }
   copper: standardCopper
   graphite: standardDense
