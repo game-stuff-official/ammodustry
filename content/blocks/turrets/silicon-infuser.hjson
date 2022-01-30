@@ -10,9 +10,6 @@ category: crafting
 itemCapacity: 10
 
 consumes: {
-	power: {
-  	power/5
-	}
   items: {
     items: [
       silicon/3
