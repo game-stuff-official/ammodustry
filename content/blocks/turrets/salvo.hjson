@@ -21,13 +21,9 @@ ammoTypes: {
   size: 2
   range: 190
   reloadTime: 31
-  restitution 0.03
   cooldown: 0.03
-  recoilAmount: 3
   shootShake: 1
   burstSpacing: 3
   spread: 0
   shots: 4
-  ammoUseEffect: Fx.casing2
   health: 960
-  shootSound: Sounds.shootBig
