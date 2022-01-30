@@ -10,13 +10,11 @@ category: crafting
 itemCapacity: 10
 
 consumes: {
-  items: {
-items:[
-      silicon/3
-      titanium/1
-      thorium/1
-    ]
-  }
+  items:[
+    silicon/3
+    titanium/1
+    thorium/1
+  ]
 }
 	
 outputItem: infused-silicon/3
