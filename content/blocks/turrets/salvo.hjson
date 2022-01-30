@@ -22,7 +22,6 @@ ammoTypes: {
   range: 190
   reloadTime: 31
   restitution 0.03
-  ammoEjectBack: 3
   cooldown: 0.03
   recoilAmount: 3
   shootShake: 1
