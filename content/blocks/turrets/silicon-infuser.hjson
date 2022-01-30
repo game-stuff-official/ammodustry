@@ -11,9 +11,9 @@ itemCapacity: 10
 
 consumes: 
 	Items: {
-		Items: {
+		Items: [
 			coal/1
-		}
+		]
 	}
 	
 outputItem: infused-silicon/3
