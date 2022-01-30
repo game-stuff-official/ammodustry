@@ -9,4 +9,13 @@ ammoTypes: {
   graphite: {
     type: standardDense
   }
+  pyratite:  {
+    type: standardIncendiary
+  }
+  silicon: {
+    type: standardHoming
+  }
+  thorium: {
+    type: standardThourium
+  }
 } 
