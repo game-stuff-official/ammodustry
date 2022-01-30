@@ -18,7 +18,6 @@ consumes: {
     ]
   }
 }
-consumePower/3
 	
 outputItem: infused-silicon/3
   
