@@ -16,7 +16,7 @@ ammoTypes: {
   }
 } 
 
-size; 2
+size: 2
 range: 190
 reloadTime: 31
 restitution: 0.03
