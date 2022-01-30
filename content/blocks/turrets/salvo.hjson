@@ -1,8 +1,6 @@
 ammoTypes: {
   infused-silicon: {
-    bullet: {
-      type: standardHoming
-      }
+     type: standardHoming
   }
   copper: {
     type: standardCopper
