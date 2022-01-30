@@ -1,4 +1,4 @@
-ammoTypes: 
+ammoTypes: {
   infused-silicon: {
     type: standardHoming
   }
