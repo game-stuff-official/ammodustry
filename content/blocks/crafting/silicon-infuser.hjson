@@ -14,7 +14,7 @@ consumes: {
     items: [
       silicon/3
       titanium/1
-      thourium/1
+      thorium/1
     ]
   }
 }
