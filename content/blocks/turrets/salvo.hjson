@@ -13,5 +13,5 @@ ammoTypes: {
   graphite: standardDense
   pyratite: standardIncendiary
   silicon: standardHoming
-  thourium: standardThourium
+  thorium: standardThorium
 }
