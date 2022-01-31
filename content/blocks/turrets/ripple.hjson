@@ -2,7 +2,7 @@
   ammoTypes: {
   infused-silicon: {
     damage:44
-    type:ArtilleryBulletType
+    type: ArtilleryBulletType
     knockback: 0.8
     lifetime: 100
     homingPower: 0.1
