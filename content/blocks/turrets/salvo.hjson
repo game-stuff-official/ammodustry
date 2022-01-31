@@ -6,7 +6,7 @@ ammoTypes: {
     damage: 64
     width: 16
     height: 21
-    speed: 4
+    speed: 5
     reloadMultipier: 2
     ammoMultiplier: 4
   }
