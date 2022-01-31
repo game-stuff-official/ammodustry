@@ -1,0 +1,11 @@
+
+  ammoTypes: {
+  infused-silicon: {
+    type: artilleryHoming
+  }
+  graphite: artillereDense
+  sillicon: artilleryHoming
+  pyratite: artilleryIncendiary
+  blastCompound: artilleryIncendiaryExplosive
+  plastanium: artilleryPlastic
+}
