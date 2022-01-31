@@ -1,6 +1,19 @@
 
   ammoTypes: {
-  infused-silicon: artilleryHoming
+  infused-silicon: {
+    damage:44
+    type:ArtilleryBulletType
+    knockback: 0.8
+    lifetime: 100
+    homingPower: 0.1
+    homingRange: 75
+    width: 11
+    height: 11
+    collidesTiles: false
+    splashDamageRadius: 18.75
+    splashDamage: 44
+    reloadMultiplier: 2
+  }
   graphite: artillereDense
   sillicon: artilleryHoming
   pyratite: artilleryIncendiary
