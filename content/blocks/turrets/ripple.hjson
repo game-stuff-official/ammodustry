@@ -17,6 +17,6 @@
   graphite: artillereDense
   sillicon: artilleryHoming
   pyratite: artilleryIncendiary
-  blastCompound: artilleryIncendiaryExplosive
+  blastCompound: artilleryExplosive
   plastanium: artilleryPlastic
 }
